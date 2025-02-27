@@ -1,10 +1,10 @@
 # [level 0] 배열의 평균값 - 120817 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120817) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120817?language=java) 
 
 ### 성능 요약
 
-메모리: 10.3 MB, 시간: 0.00 ms
+메모리: 84.7 MB, 시간: 0.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 10월 15일 16:56:29
+2025년 02월 27일 14:38:59
 
 ### 문제 설명
 

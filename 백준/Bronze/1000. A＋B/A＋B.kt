@@ -1,7 +1,8 @@
 import java.io.*
 import java.util.*
 
-fun main() = with(BufferedReader(InputStreamReader(System.`in`))){
-    val token = StringTokenizer(readLine())
+fun main() {
+    val br = BufferedReader(InputStreamReader(System.`in`))
+    val token = StringTokenizer(br.readLine())
     println(Integer.parseInt(token.nextToken()) + Integer.parseInt(token.nextToken()))
 }
